@@ -1,1 +1,2 @@
-This is a message
+This is a message.
+And this is not a message.
